@@ -1,0 +1,5 @@
+create table product
+(id varchar(20) primary key,
+ name varchar2(20),
+  model varchar(20),
+   price number);
